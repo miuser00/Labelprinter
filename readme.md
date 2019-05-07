@@ -4,7 +4,7 @@ LabelPrinter
 ## 功能 ##
 在标签机上打印指定位图
 
-![]("/document/example.png")
+![]("document/example.png")
 
 打印机：输入标签打印机的名字，可以输入明曾忠特有的一部分名称即可
 
